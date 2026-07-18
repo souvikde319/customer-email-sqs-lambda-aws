@@ -1,3 +1,8 @@
+![Terraform](https://img.shields.io/badge/Terraform-1.5+-623CE4?logo=terraform)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # 📧 Customer Email Notification System using AWS Lambda, Amazon SQS, Amazon SES & Terraform
 
 ## 🚀 Project Overview
